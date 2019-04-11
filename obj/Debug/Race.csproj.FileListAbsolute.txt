@@ -1,0 +1,7 @@
+C:\Users\murka\source\repos\Race\Race\obj\Debug\Race.csprojAssemblyReference.cache
+C:\Users\murka\source\repos\Race\Race\obj\Debug\Race.csproj.CoreCompileInputs.cache
+C:\Users\murka\source\repos\Race\Race\bin\Debug\Race.exe.config
+C:\Users\murka\source\repos\Race\Race\bin\Debug\Race.exe
+C:\Users\murka\source\repos\Race\Race\bin\Debug\Race.pdb
+C:\Users\murka\source\repos\Race\Race\obj\Debug\Race.exe
+C:\Users\murka\source\repos\Race\Race\obj\Debug\Race.pdb
